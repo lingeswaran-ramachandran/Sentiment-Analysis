@@ -2,6 +2,8 @@
 
 <a><img alt='tf' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 Title : To predict emotion 
 
 Description : The objective of this project to model customer's review. The strategy to win customer support in 21st century was change. 
