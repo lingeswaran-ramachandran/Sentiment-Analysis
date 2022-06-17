@@ -2,6 +2,11 @@
 
 <a><img alt='tf' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
+Title : To predict emotion 
+
+Description : The objective of this project to model customer's review. The strategy to win customer support in 21st century was change. 
+
+Result 
 
 # Sentiment Analysis
  Trained with over 60000 IMDB dataset to categorize positive and negative
