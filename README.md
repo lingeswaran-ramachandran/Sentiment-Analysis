@@ -3,3 +3,6 @@
 
 ## To include images
 ![model_architecture](static/model.png)
+
+## To include ur link
+https://www.google.com
